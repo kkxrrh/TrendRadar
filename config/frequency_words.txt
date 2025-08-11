@@ -73,6 +73,9 @@ sora
 claude
 Anthropic
 
+XAI
+grok4
+
 iphone
 ipad
 mac
